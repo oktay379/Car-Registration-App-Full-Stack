@@ -40,20 +40,19 @@ Users registered in the application can easily contact.
 - Once registration is successful, you can log in.
 
 
-## Kullanılan Teknolojiler:
+## Used technologies:
 - Jwt and cookies were used for auth transactions.
 - Context api - Zustand was used for state management.
 - Tailwind was used for design ui.
 
-## Resimler
-
-
-
-
-
-
-
-
+## Pictures:
+<img width="1440" alt="328259750-5d2dad9f-f400-4a43-bf1d-a5e46f1908d3" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/0a9d0ed4-0037-4470-a5cf-9be70a72e8be">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 02 32" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/af5bf012-5758-426b-b6e5-a42268021b68">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 02 38" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/8e8368f7-7d85-4798-a1ad-afdf9ebab1a2">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 03 17" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/4eb889c2-984c-4ad3-af77-683dc86c62ad">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 04 06" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/5d302de9-9309-45d7-afb3-c32f384ae340">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 05 15" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/ead9669e-2347-4165-a3fb-4d271991de65">
+<img width="1440" alt="Ekran Resmi 2024-05-28 14 05 35" src="https://github.com/oktay379/Car-Registration-App/assets/124916788/f7aee0ee-6628-4d71-af8e-be0d74ff7903">
 
 
 
