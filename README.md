@@ -1,9 +1,9 @@
-### Vehicle Registration and Communication System
+## Vehicle Registration and Communication System
 This application allows users to register their cars, warn users, communicate and send messages.
 Users registered in the application can easily contact.
 
 
-### Features
+## Features
 - Vehicle Registration: Users can enter vehicle plates and manage registered vehicles.
 - Messaging: Users can communicate with each other through the app.
 - Driver Alerts: Alert vehicle drivers via messaging.
